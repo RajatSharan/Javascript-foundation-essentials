@@ -46,3 +46,4 @@ console.log(index)
 
 let hasBanana = fruits.includes("banana");
 console.log(hasBanana);
+
